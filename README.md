@@ -1,0 +1,1 @@
+This tensor flow guide is somewhat based on the google's course on tensorflow.
